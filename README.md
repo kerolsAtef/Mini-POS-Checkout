@@ -1,4 +1,4 @@
-# Mini-POS Checkout Core
+# Mini-POS Checkout Cofvm re
 
 A headless checkout engine built with BLoC pattern in pure Dart, fully unit-tested for POS and ESS applications.
 
@@ -17,17 +17,6 @@ flutter pub get
 ### Run Tests
 ```bash
 flutter test
-```
-
-### Run Tests with Coverage
-```bash
-flutter test --coverage
-```
-
-### Generate Coverage Report
-```bash
-chmod +x scripts/coverage.sh
-./scripts/coverage.sh
 ```
 
 ## ✅ Implementation Status
